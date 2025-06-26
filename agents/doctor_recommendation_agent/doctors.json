@@ -1,0 +1,203 @@
+{
+    "meta": {
+      "description": "List of all registered hospital doctors with their specialty, availability, and working hours.",
+      "version": "1.0.0",
+      "last_updated": "2025-06-26",
+      "total_doctors": 24
+    },
+    "doctors": [
+      {
+        "id": "doc001",
+        "name": "Dr. Emily Carter",
+        "specialty": "Cardiology",
+        "available_days": ["Monday", "Wednesday", "Friday"],
+        "time": "09:00 AM - 12:00 PM",
+        "location": "Heart Clinic, 2nd Floor"
+      },
+      {
+        "id": "doc002",
+        "name": "Dr. Rajiv Nair",
+        "specialty": "Dermatology",
+        "available_days": ["Tuesday", "Thursday"],
+        "time": "10:00 AM - 1:00 PM",
+        "location": "Skin Care Center, 1st Floor"
+      },
+      {
+        "id": "doc003",
+        "name": "Dr. Priya Sharma",
+        "specialty": "ENT",
+        "available_days": ["Monday", "Thursday", "Saturday"],
+        "time": "11:00 AM - 2:00 PM",
+        "location": "ENT Dept, Ground Floor"
+      },
+      {
+        "id": "doc004",
+        "name": "Dr. Aman Verma",
+        "specialty": "Orthopedics",
+        "available_days": ["Wednesday", "Friday"],
+        "time": "12:00 PM - 3:00 PM",
+        "location": "Ortho Wing, 3rd Floor"
+      },
+      {
+        "id": "doc005",
+        "name": "Dr. Alisha Mehta",
+        "specialty": "Cardiology",
+        "available_days": ["Tuesday", "Thursday"],
+        "time": "10:00 AM - 1:00 PM",
+        "location": "Cardio Block, 1st Floor"
+      },
+      {
+        "id": "doc006",
+        "name": "Dr. Sameer Khan",
+        "specialty": "Neurology",
+        "available_days": ["Monday", "Wednesday"],
+        "time": "02:00 PM - 5:00 PM",
+        "location": "Neuro Wing, 4th Floor"
+      },
+      {
+        "id": "doc007",
+        "name": "Dr. Neha Desai",
+        "specialty": "Gastroenterology",
+        "available_days": ["Thursday", "Saturday"],
+        "time": "09:00 AM - 12:00 PM",
+        "location": "GI Dept, 2nd Floor"
+      },
+      {
+        "id": "doc008",
+        "name": "Dr. Rakesh Patel",
+        "specialty": "Orthopedics",
+        "available_days": ["Tuesday", "Saturday"],
+        "time": "03:00 PM - 6:00 PM",
+        "location": "Ortho Wing, 3rd Floor"
+      },
+      {
+        "id": "doc009",
+        "name": "Dr. Sheetal Iyer",
+        "specialty": "Pediatrics",
+        "available_days": ["Monday", "Tuesday", "Wednesday"],
+        "time": "09:00 AM - 1:00 PM",
+        "location": "Children's Care, Ground Floor"
+      },
+      {
+        "id": "doc010",
+        "name": "Dr. Arjun Rao",
+        "specialty": "ENT",
+        "available_days": ["Tuesday", "Friday"],
+        "time": "11:00 AM - 1:00 PM",
+        "location": "ENT Dept, Ground Floor"
+      },
+      {
+        "id": "doc011",
+        "name": "Dr. Kavita Reddy",
+        "specialty": "Gynecology",
+        "available_days": ["Wednesday", "Friday"],
+        "time": "10:00 AM - 12:00 PM",
+        "location": "Women’s Health, 2nd Floor"
+      },
+      {
+        "id": "doc012",
+        "name": "Dr. Mohan Joshi",
+        "specialty": "Cardiology",
+        "available_days": ["Monday", "Saturday"],
+        "time": "08:00 AM - 11:00 AM",
+        "location": "Cardiac Center, 2nd Floor"
+      },
+      {
+        "id": "doc013",
+        "name": "Dr. Anjali Kapoor",
+        "specialty": "Dermatology",
+        "available_days": ["Friday", "Saturday"],
+        "time": "01:00 PM - 4:00 PM",
+        "location": "Skin Clinic, 1st Floor"
+      },
+      {
+        "id": "doc014",
+        "name": "Dr. Imran Shaikh",
+        "specialty": "General Medicine",
+        "available_days": ["Monday", "Tuesday", "Thursday"],
+        "time": "09:00 AM - 2:00 PM",
+        "location": "OPD Zone A, Ground Floor"
+      },
+      {
+        "id": "doc015",
+        "name": "Dr. Sneha Kulkarni",
+        "specialty": "Pediatrics",
+        "available_days": ["Thursday", "Friday"],
+        "time": "10:30 AM - 12:30 PM",
+        "location": "Children's Care, Ground Floor"
+      },
+      {
+        "id": "doc016",
+        "name": "Dr. Abhishek Menon",
+        "specialty": "Orthopedics",
+        "available_days": ["Monday", "Thursday"],
+        "time": "04:00 PM - 6:00 PM",
+        "location": "Ortho Dept, 3rd Floor"
+      },
+      {
+        "id": "doc017",
+        "name": "Dr. Tanya Bhatt",
+        "specialty": "Neurology",
+        "available_days": ["Tuesday", "Friday"],
+        "time": "02:00 PM - 5:00 PM",
+        "location": "Neuro Wing, 4th Floor"
+      },
+      {
+        "id": "doc018",
+        "name": "Dr. Vivek Sharma",
+        "specialty": "Cardiology",
+        "available_days": ["Wednesday", "Friday"],
+        "time": "09:30 AM - 12:30 PM",
+        "location": "Heart Clinic, 2nd Floor"
+      },
+      {
+        "id": "doc019",
+        "name": "Dr. Rina Paul",
+        "specialty": "Dermatology",
+        "available_days": ["Monday", "Thursday"],
+        "time": "10:00 AM - 1:00 PM",
+        "location": "Skin Care Center, 1st Floor"
+      },
+      {
+        "id": "doc020",
+        "name": "Dr. Deepak Singh",
+        "specialty": "General Medicine",
+        "available_days": ["Saturday", "Sunday"],
+        "time": "09:00 AM - 1:00 PM",
+        "location": "OPD Zone B, Ground Floor"
+      },
+      {
+        "id": "doc021",
+        "name": "Dr. Meera Joshi",
+        "specialty": "ENT",
+        "available_days": ["Sunday"],
+        "time": "10:00 AM - 12:00 PM",
+        "location": "ENT Dept, Ground Floor"
+      },
+      {
+        "id": "doc022",
+        "name": "Dr. Sanjay Pillai",
+        "specialty": "Gynecology",
+        "available_days": ["Tuesday", "Saturday"],
+        "time": "12:00 PM - 2:00 PM",
+        "location": "Women’s Clinic, 2nd Floor"
+      },
+      {
+        "id": "doc023",
+        "name": "Dr. Hina Dsouza",
+        "specialty": "General Medicine",
+        "available_days": ["Friday", "Sunday"],
+        "time": "09:00 AM - 11:00 AM",
+        "location": "OPD Zone C, Ground Floor"
+      },
+      {
+        "id": "doc024",
+        "name": "Dr. Devansh Rao",
+        "specialty": "Orthopedics",
+        "available_days": ["Sunday"],
+        "time": "01:00 PM - 4:00 PM",
+        "location": "Ortho Dept, 3rd Floor"
+      }
+    ]
+  }
+  

@@ -1,0 +1,103 @@
+{
+  "cbfcce66-ab75-400b-9a31-a5f53b3de4a8": [
+    {
+      "id": "doc006",
+      "name": "Dr. Sameer Khan",
+      "specialty": "Neurology",
+      "available_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "02:00 PM - 5:00 PM",
+      "location": "Neuro Wing, 4th Floor"
+    },
+    {
+      "id": "doc017",
+      "name": "Dr. Tanya Bhatt",
+      "specialty": "Neurology",
+      "available_days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "time": "02:00 PM - 5:00 PM",
+      "location": "Neuro Wing, 4th Floor"
+    }
+  ],
+  "a0959b7d-61cf-49b1-8d01-e79ccd5667ee": [
+    {
+      "id": "doc017",
+      "name": "Dr. Tanya Bhatt",
+      "specialty": "Neurology",
+      "available_days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "time": "02:00 PM - 5:00 PM",
+      "location": "Neuro Wing, 4th Floor"
+    }
+  ],
+  "d425c587-285b-4bd0-b6ef-7d6b71d93e74": [
+    {
+      "id": "doc003",
+      "name": "Dr. Priya Sharma",
+      "specialty": "ENT",
+      "available_days": [
+        "Monday",
+        "Thursday",
+        "Saturday"
+      ],
+      "time": "11:00 AM - 2:00 PM",
+      "location": "ENT Dept, Ground Floor"
+    }
+  ],
+  "405f9c79-de76-47f6-a00d-3e0d4dabc26b": [
+    {
+      "id": "doc006",
+      "name": "Dr. Sameer Khan",
+      "specialty": "Neurology",
+      "available_days": [
+        "Monday",
+        "Wednesday"
+      ],
+      "time": "02:00 PM - 5:00 PM",
+      "location": "Neuro Wing, 4th Floor"
+    },
+    {
+      "id": "doc017",
+      "name": "Dr. Tanya Bhatt",
+      "specialty": "Neurology",
+      "available_days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "time": "02:00 PM - 5:00 PM",
+      "location": "Neuro Wing, 4th Floor"
+    }
+  ],
+  "828aa204-3766-4577-8c13-564e2676f310": [
+    {
+      "id": "doc017",
+      "name": "Dr. Tanya Bhatt",
+      "specialty": "Neurology",
+      "available_days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "time": "02:00 PM - 5:00 PM",
+      "location": "Neuro Wing, 4th Floor"
+    }
+  ],
+  "a1bc652f-6292-4ee7-8d3d-c5c919c7878a": [
+    {
+      "id": "doc017",
+      "name": "Dr. Tanya Bhatt",
+      "specialty": "Neurology",
+      "available_days": [
+        "Tuesday",
+        "Friday"
+      ],
+      "time": "02:00 PM - 5:00 PM",
+      "location": "Neuro Wing, 4th Floor"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "405f9c79-de76-47f6-a00d-3e0d4dabc26b": {
+    "id": "doc006",
+    "name": "Dr. Sameer Khan",
+    "specialty": "Neurology",
+    "available_days": [
+      "Monday",
+      "Wednesday"
+    ],
+    "time": "02:00 PM - 5:00 PM",
+    "location": "Neuro Wing, 4th Floor"
+  },
+  "828aa204-3766-4577-8c13-564e2676f310": {
+    "id": "doc017",
+    "name": "Dr. Tanya Bhatt",
+    "specialty": "Neurology",
+    "available_days": [
+      "Tuesday",
+      "Friday"
+    ],
+    "time": "02:00 PM - 5:00 PM",
+    "location": "Neuro Wing, 4th Floor"
+  },
+  "a1bc652f-6292-4ee7-8d3d-c5c919c7878a": {
+    "id": "doc017",
+    "name": "Dr. Tanya Bhatt",
+    "specialty": "Neurology",
+    "available_days": [
+      "Tuesday",
+      "Friday"
+    ],
+    "time": "02:00 PM - 5:00 PM",
+    "location": "Neuro Wing, 4th Floor"
+  }
+}
